@@ -1,11 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
-
 ## Hi there 👋, My name's Max
 
 ### 👨‍💻 About me
-#### I'm a Software developer with over 1.5+ years of work experience in software industry building web applications and services. Designed and developed web apps and services across APIs, third-party integrations and databases.
+<p>I'm a Software developer with over 1.5+ years of work experience in software industry building web applications and services. Designed and developed web apps and services across APIs, third-party integrations and databases.</p>
 ### 🛠️ Tech Stack
 <div align="start">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -80,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxTheGrandMagus&show_icons=true&theme=algolia&layout=compact" style="max-width: 100%;" height="180em" />
 </div>
 
-### ✉️ Connect with me
+### ✉️ Contacts and links
 <a href="mailto:veyronmclord@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
