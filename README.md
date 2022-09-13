@@ -2,6 +2,7 @@
 
 ### 👨‍💻 About me
 <p>I'm a Software developer with over 1.5+ years of work experience in software industry building web applications and services. Designed and developed web apps and services across APIs, third-party integrations and databases.</p>
+
 ### 🛠️ Tech Stack
 <div align="start">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
