@@ -20,11 +20,7 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</div>
-<div align="start">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/RxJS-d80e8d?style=for-the-badge&logo=ReactiveX&logoColor=white" />
-  <img src="https://img.shields.io/badge/ngRx-412846?style=for-the-badge&logo=ReactiveX&logoColor=ba2bd2" />
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=for-the-badge" />
 </div>
 <div align="start">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -47,10 +43,19 @@
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 </div>
 
-#### Little experience with: 
+#### Little experience with other Frontend technologies:
 <div align="start">
-  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-d80e8d?style=for-the-badge&logo=ReactiveX&logoColor=white" />
+  <img src="https://img.shields.io/badge/ngRx-412846?style=for-the-badge&logo=ReactiveX&logoColor=ba2bd2" />
+</div>
+<div align="start">
+  <img src="https://img.shields.io/badge/Vue(v.2,3)-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" alt="Vue.js Badge">
+  <img src="https://img.shields.io/badge/VueX-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+</div>
+
+#### Little experience with Backend technologies:
+<div align="start">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Typeform-262627?logo=typeform&logoColor=fff&style=for-the-badge" />
