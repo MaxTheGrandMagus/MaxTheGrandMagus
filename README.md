@@ -1,7 +1,7 @@
 ## Hi there 👋, My name's Max
 
 ### 👨‍💻 About me
-<p>I'm a Software developer with over 1.5+ years of work experience in software industry building web applications and services. Designed and developed web apps and services across APIs, third-party integrations and databases.</p>
+<p>I'm a Software developer with over 2+ years of work experience in software industry building web applications and services. Designed and developed web apps and services across APIs, third-party integrations and databases.</p>
 
 ### 🛠️ Tech Stack
 <div align="start">
